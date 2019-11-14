@@ -107,13 +107,16 @@ def pageDiv()  :
         txt_height.append(0)
 
 def goHome():
+    kioskDisplay.blit(background_image,[0,0])
+    pygame.display.update()
     print("The application went home")
-    height = int(display_height/3)
+    height = int(display_height/2)
     width = int(display_width/6)
     img = load_img("./src/img/wolfparklogo.jpg",width,height)
     build([img,[(display_width/2)-(width/2),(display_height/2)-(height/2)]])
     pygame.display.update()
     
+
 if __name__ == '__main__'   :
     intro = True
     #print(pygame.font.get_fonts())

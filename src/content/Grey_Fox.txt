@@ -3,4 +3,4 @@ Subtitle: Most basal, or “primitive” canine, Sympatric populations to Red fox an
 Weight: range 4-16lbs
 Height: >1.5ft at withers
 Physical attributes: Life expectancy ~4yr in the wild, 12 in captivity, Flexible tarsal bones provide a unique adaptation for climbing trees,Compact body, with petite, angular features, no white patterning, consistent “grizzling” coloration across the torso, Black dorsal stripe cross lower spine and tail, Experiencing generalized population decline to to habitat loss and competition with other mesopredators like coyote, Racoon, and weasel  
-Image: ./src/img/greyfox.jpg
+Image: ./src/img/greyfox.jpeg
