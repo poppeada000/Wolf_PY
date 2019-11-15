@@ -1,7 +1,8 @@
+#!/usr/bin/env python
 import pygame 
 import numpy as np
 import matplotlib as plt
-from gpiozero import Button#Gpio Integration this may be unix operatble
+#from gpiozero import Button#Gpio Integration this may be unix operatble
 from time import sleep
 import sys
 import wx #this is a windows tool kit change to gtk for Unix systems

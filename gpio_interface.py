@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import RPi.GPIO as GPIO # Import Raspberry Pi GPIO library
 from interface import *
 #from gpiozero import Button#Gpio Integration this may be unix operatble
