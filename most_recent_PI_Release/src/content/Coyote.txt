@@ -1,0 +1,7 @@
+Title: Coyotes
+Weight: 18lb-45lb depending on region
+Height: Over 3ft 
+Length: About 3.5ft
+Color: Varies from a dusty sand to pseudo-melanistic, though rarely ever true black
+Physical attributes: Deep chest, Compact body with narrow facial features and large, triangular ears “Cat Footed” with long middle toes and exposed nail
+Image: /src/img/coyote.jpg

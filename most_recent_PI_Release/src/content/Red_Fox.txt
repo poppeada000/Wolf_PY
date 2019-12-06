@@ -1,0 +1,5 @@
+Title: Red Foxes
+Subtitle: “Newest” species of fox, genera Vulpes, Considered the “True Fox”  a name coined by British Imperialists
+Weight: 4-30lbs, with farmed foxes being heavier
+Physical attributes: 3-6yrs life expectancy in the wild, 12-1 in captivity
+Image: /src/img/redfox.jpeg

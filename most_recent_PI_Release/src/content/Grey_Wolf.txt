@@ -1,0 +1,8 @@
+Title: Grey Wolves
+Subtitle: Largest of Canidae family
+Weight: About 55-120lbs
+Height: About 2.5 – 3ft
+Length: About 5.5-6.5ft
+Color:  Predominantly Agouti, Tawny, Black, or Silver
+Physical attributes: Deep, V-shaped and narrow chest, long forelimbs, elbows extend below the chest, long, level back with tail carriage that hands low-to-level with the back, wide face with pronounced jaws, small and square ears in comparison to the face
+Image: /src/img/greywolf.jpeg
