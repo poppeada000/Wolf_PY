@@ -10,8 +10,9 @@ import sys
 import wx
 
 pygame.init()
-app = wx.App(False)
-display_width, display_height = wx.GetDisplaySize()
+#app = wx.App(False)
+#Change the values below to your screen resolution found in display settings
+display_width, display_height = (1920,1080)#wx.GetDisplaySize()
 kioskDisplay = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
 pygame.display.set_caption("Interactive Map")
 background_image = pygame.image.load("./src/img/park3.jpeg")#This loads the JPEG to its origonal size
